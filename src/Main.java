@@ -9,7 +9,7 @@ public class Main {
         //System.out.printf("Hello and welcome!");
 
         Scanner scanner=new Scanner(System.in);
-        
+
         double edad;
         System.out.println("Ingrese el nombre: ");
 
@@ -17,6 +17,7 @@ public class Main {
         edad=scanner.nextDouble();
 
         System.out.println(13 +2 );
+        System.out.println("holz");
     }
     }
 
