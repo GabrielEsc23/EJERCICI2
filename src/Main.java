@@ -11,13 +11,14 @@ public class Main {
         Scanner scanner=new Scanner(System.in);
 
         double edad;
-        System.out.println("Ingrese el nombre: ");
+
 
         System.out.println("Ingrese la edad: ");
         edad=scanner.nextDouble();
 
         System.out.println(13 +2 );
         System.out.println("holz");
+        System.out.println(edad);
     }
     }
 
