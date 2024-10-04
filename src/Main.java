@@ -17,7 +17,7 @@ public class Main {
         edad=scanner.nextDouble();
 
         System.out.println(13 +2 );
-        System.out.println("holz");
+        System.out.println("holA");
         System.out.println(edad);
     }
     }
